@@ -1,0 +1,4 @@
+body{
+  background-image: conic-gradient(rgb(53, 48, 48), rgb(61, 61, 48), rgb(187, 215, 187), rgb(101, 101, 160), black);
+  /* background-image: radial-gradient(rgb(49, 38, 38), rgb(43, 53, 43), rgb(40, 40, 73)); */
+}
